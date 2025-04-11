@@ -1,2 +1,14 @@
 .env
 node_modules
+proxies.txt
+node_modules/
+
+.env
+
+dist/
+build/
+
+*.log
+
+*.cache
+
